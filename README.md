@@ -1,3 +1,3 @@
-# USA West Travel Plan 2025
+# 🏴‍☠️🍻 Straw Hat Crews Costume for EDC
 
-https://usa-west-2025.pages.dev
+https://straw-hat-crews-edcth-2025.pages.dev
