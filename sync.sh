@@ -3,14 +3,14 @@
 set -e
 
 QUARTZ_PUBLISH_DIRECTORY="/Users/chaintng/Projects/obsidian/published/straw-hat-crews-edcth-2025/"
-INDEX_FILE="🏴\u200d☠️🍻 Straw Hat Crews Costume for EDC.md"
+INDEX_FILE="🏴‍☠️🍻 Straw Hat Crews Costume for EDC.md"
 
 # Store the current directory
 current_dir=$(pwd)
 cd $QUARTZ_PUBLISH_DIRECTORY
 
 ## Sync iCloud Notes to Quartz Directory
-rsync -av --delete "$OBSIDIAN_ICLOUD_DIR/🏠 Personal/1. Projects/🏴\u200d☠️🍻 Straw Hat Crews Costume for EDC/" ./content/
+rsync -av --delete "$OBSIDIAN_ICLOUD_DIR/🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/" ./content/
 
 ## Copy Index files
 cp -rf "./content/$INDEX_FILE" ./content/index.md
