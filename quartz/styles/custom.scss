@@ -1,4 +1,9 @@
 @use "./base.scss";
 @use "./dv-cards-for-dv-serailizer.css"
 
-// put your custom CSS here!
+// Dynamic Image Grid in One Line
+p:has(> img) {
+    display: grid;                /* Enables grid layout */
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); /* Adjust columns */
+    gap: 10px;
+}
