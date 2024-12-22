@@ -1,6 +1,6 @@
 ---
-references: 
-tags: 
+references:
+tags:
 favourite: false
 created: 2024-12-19T22:36:09+07:00
 modified: 2024-12-22T11:20:42+07:00
@@ -17,12 +17,14 @@ cssclasses:
 published-url: https://straw-hat-crews-edcth-25.vercel.app
 project-status: todo
 title: 🏴‍☠️🍻 Straw Hat Crews Costume for EDC
+aliases:
+  - index
 ---
 
 ![[onepiece-team.jpg]]
 
 Light Wiki  for [[One Piece — Straw Hat Pirates 🏴‍☠️|Straw Hat Crews]] **Cosplay**
-💡 Idea for [[2025 EDC TH Phuket]] 
+💡 Idea for [[2025 EDC TH Phuket]]
 
 # Straw Hat Crews Characters
 
