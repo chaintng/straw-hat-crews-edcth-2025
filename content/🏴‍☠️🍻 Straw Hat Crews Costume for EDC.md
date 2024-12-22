@@ -16,6 +16,7 @@ cssclasses:
   - dv-serializer
 published-url: https://straw-hat-crews-edcth-25.vercel.app
 project-status: todo
+title: 🏴‍☠️🍻 Straw Hat Crews Costume for EDC
 ---
 
 ![[onepiece-team.jpg]]

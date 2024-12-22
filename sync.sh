@@ -30,6 +30,9 @@ cp -rf "./content/$INDEX_FILE" ./content/index.md
 
 # cd $current_dir
 
+git status 
+read -n 1 -s -r -p "Press any key to continue..."
+
 git add .
 git commit -nam "update"
 git push
