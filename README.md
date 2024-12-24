@@ -2,4 +2,4 @@
 
 https://straw-hat-crews-edcth-2025.pages.dev
 
-🥰
+🥰😂
