@@ -10,7 +10,7 @@ tags:
   - dv-serializer
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:19:58+07:00
+modified: 2025-01-26T01:22:25+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -25,8 +25,8 @@ published-url: https://straw-hat-crews-edcth-25.vercel.app
 
 
 > [!NOTE] Published Wiki by Quartz 
-> **Quartz GitHub Repo**: https://github.com/chaintng/straw-hat-crews-edcth-2025
-> **Quartz Wiki**: https://straw-hat-crews-edcth-2025.pages.dev/
+> - **Quartz GitHub Repo**: https://github.com/chaintng/straw-hat-crews-edcth-2025
+> - **Quartz Wiki**: https://straw-hat-crews-edcth-2025.pages.dev/
 
 ![[B3B2C5CF-667A-4A94-BE51-AFD60C1CD186_1_102_a.jpeg]]
 

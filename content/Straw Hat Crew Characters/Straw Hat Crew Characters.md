@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
-modified: 2025-01-26T01:19:22+07:00
+modified: 2025-01-26T01:23:59+07:00
 created: 2025-01-04T23:08:07+07:00
 cssclasses:
   - cards
@@ -10,7 +10,6 @@ cssclasses:
   - dv-serializer
 tags:
   - folder-note
-  - hidden
 ---
 
 - [[Character Key Cosplay Items]]
@@ -35,6 +34,7 @@ tags:
 | ![[0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg\|0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg]]                                         | [[Robin 📚 นิโคโรบิน]]                                 |
 | ![[B4E6720B-3DDD-4BA2-93DA-330425592519.jpeg\|B4E6720B-3DDD-4BA2-93DA-330425592519.jpeg]]                                         | [[Franky 🤖 แฟรงกี้]]                                   |
 | ![[smoker-manga.jpg\|smoker-manga.jpg]]                                                                                           | [[Smoker 🚬 ผู้พัน]]                                     |
+| \-                                                                                                                                                                                                                                      | [[Straw Hat Crew Characters]]                   |
 <!-- SerializedQuery END -->
 
 
