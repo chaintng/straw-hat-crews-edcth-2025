@@ -3,9 +3,14 @@ references:
 tags:
   - folder-note
   - pin-post
+  - cards
+  - cards-cols-3
+  - cards-cover
+  - cards-1-1
+  - dv-serializer
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:01:04+07:00
+modified: 2025-01-26T01:19:58+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -17,6 +22,11 @@ aliases:
 quartz-docs-url: https://straw-hat-crews-edcth-2025.pages.dev/
 published-url: https://straw-hat-crews-edcth-25.vercel.app
 ---
+
+
+> [!NOTE] Published Wiki by Quartz 
+> **Quartz GitHub Repo**: https://github.com/chaintng/straw-hat-crews-edcth-2025
+> **Quartz Wiki**: https://straw-hat-crews-edcth-2025.pages.dev/
 
 ![[B3B2C5CF-667A-4A94-BE51-AFD60C1CD186_1_102_a.jpeg]]
 
@@ -44,5 +54,3 @@ published-url: https://straw-hat-crews-edcth-25.vercel.app
 ## References
 - **Cosplay YouTube**: https://www.youtube.com/watch?app=desktop&v=q3uk0DaDK6E
 - **Canva Wanted**: https://www.canva.com/design/DAGZwVQmIJI/KKdAB5ASnXSQKCsKUZj3-A/edit
-- **GitHub Notes**: https://github.com/chaintng/straw-hat-crews-edc-th-2025
-- Vercel App: https://straw-hat-crews-edc-th-2025-eq3s.vercel.app

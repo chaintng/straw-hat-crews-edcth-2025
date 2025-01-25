@@ -1,12 +1,15 @@
 ---
 references: 
-tags: []
+tags: 
 favourite: false
 created: 2025-01-04T16:37:20+07:00
 modified: 2025-01-09T22:26:36+07:00
 auto-backlink: "[[Straw Hat Crew Characters]]"
 order: 20
 cover: "![[Pasted image 20250104163743.png]]"
+dg-publish: true
+aliases:
+  - Sabo
 ---
 
 สตอรี่คือ ลูฟี่ (หมวกฟาง) มีพี่น้องร่วมสาบาน สามคน
