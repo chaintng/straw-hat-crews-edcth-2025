@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
-modified: 2025-01-26T01:24:32+07:00
+modified: 2025-01-26T01:34:07+07:00
 created: 2025-01-04T23:08:07+07:00
 cssclasses:
   - cards
@@ -28,7 +28,7 @@ tags:
 | ![[Pasted image 20250102171646.png\|Pasted image 20250102171646.png]]                                                             | [[Ace 🔥 เอส หมัดอัคคี]]                             |
 | ![[2D4F8FAE-57FF-4451-BB97-1A1F64489248.jpeg\|2D4F8FAE-57FF-4451-BB97-1A1F64489248.jpeg]]                                         | [[Shanks 🗡️ แซงคูส ผมแดง]]                       |
 | ![[Pasted image 20250104163743.png\|Pasted image 20250104163743.png]]                                                             | [[Sabo 🎩 ซาโป]]                                             |
-| ![[mihawk-3.avif\|mihawk-3.avif]]                                                                                                 | [[Mihawk 🦅 Hawk Eyes]]                               |
+| ![[Pasted image 20250104230632.png\|Pasted image 20250104230632.png]]                                                             | [[Mihawk 🦅 Hawk Eyes]]                               |
 | ![[Pasted image 20250104232958.png\|Pasted image 20250104232958.png]]                                                             | [[Law 🍄 Surgeon of Death]]                       |
 | ![[going-merry-cosplay-by-me-pic-from-2015-v0-694gjh4f3u7b1.webp\|going-merry-cosplay-by-me-pic-from-2015-v0-694gjh4f3u7b1.webp]] | [[Going Merry 🐐]]                                         |
 | ![[0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg\|0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg]]                                         | [[Robin 📚 นิโคโรบิน]]                                 |
