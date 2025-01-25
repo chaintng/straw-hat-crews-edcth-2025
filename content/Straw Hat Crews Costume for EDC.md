@@ -7,7 +7,7 @@ favourite: false
 created: 2024-12-19T22:36:09+07:00
 modified: 2025-01-26T01:45:47+07:00
 template: General
-auto-backlink: "[[1. Projects]]"
+auto-backlink: "[[💼 Work/1. Projects/1. Projects]]"
 dg-home: true
 dg-publish: true
 project-status: todo

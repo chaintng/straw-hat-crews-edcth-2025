@@ -7,7 +7,7 @@ favourite: false
 created: 2025-01-22T21:17:46+07:00
 modified: 2025-01-25T23:51:18+07:00
 template: "[[Projects]]"
-auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
+auto-backlink: "[[Straw Hat Crews Costume for EDC]]"
 ---
 
 - เรื่องมันเริ่มมาจากติ่ง One Piece อย่างผม ต้องการจะไปงาน EDC Thailand แบบเท่ห์

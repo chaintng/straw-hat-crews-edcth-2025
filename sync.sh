@@ -9,9 +9,9 @@ current_dir=$(pwd)
 cd $QUARTZ_PUBLISH_DIRECTORY
 
 ## Sync iCloud Notes to Quartz Directory
-rsync -av --delete "$OBSIDIAN_ICLOUD_DIR/🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/" ./content/
+rsync -av --delete "$OBSIDIAN_ICLOUD_DIR/🏠 Personal/1. Projects/Straw Hat Crews Costume for EDC/" ./content/
 
-git status 
+git status
 read -n 1 -s -r -p "Press any key to continue..."
 
 git add .

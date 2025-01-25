@@ -1,5 +1,5 @@
 ---
-auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
+auto-backlink: "[[Straw Hat Crews Costume for EDC]]"
 modified: 2025-01-20T23:42:11+07:00
 created: 2025-01-20T23:35:29+07:00
 ---
