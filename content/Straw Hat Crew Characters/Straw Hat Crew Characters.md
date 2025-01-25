@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
-modified: 2025-01-26T01:23:59+07:00
+modified: 2025-01-26T01:24:32+07:00
 created: 2025-01-04T23:08:07+07:00
 cssclasses:
   - cards
@@ -14,8 +14,8 @@ tags:
 
 - [[Character Key Cosplay Items]]
 
-<!-- QueryToSerialize: TABLE WITHOUT ID cover, file.link FROM "🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/Straw Hat Crew Characters" WHERE !contains(tags, "hidden")  sort default(order, 999) ASC -->
-<!-- SerializedQuery: TABLE WITHOUT ID cover, file.link FROM "🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/Straw Hat Crew Characters" WHERE !contains(tags, "hidden")  sort default(order, 999) ASC -->
+<!-- QueryToSerialize: TABLE WITHOUT ID cover, file.link FROM "🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/Straw Hat Crew Characters" WHERE !contains(tags, "hidden") AND !contains(tags, "folder-note")  sort default(order, 999) ASC -->
+<!-- SerializedQuery: TABLE WITHOUT ID cover, file.link FROM "🏠 Personal/1. Projects/🏴‍☠️🍻 Straw Hat Crews Costume for EDC/Straw Hat Crew Characters" WHERE !contains(tags, "hidden") AND !contains(tags, "folder-note")  sort default(order, 999) ASC -->
 
 | cover                                                                                                                                                                                                                                   | file.link                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,6 @@ tags:
 | ![[0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg\|0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg]]                                         | [[Robin 📚 นิโคโรบิน]]                                 |
 | ![[B4E6720B-3DDD-4BA2-93DA-330425592519.jpeg\|B4E6720B-3DDD-4BA2-93DA-330425592519.jpeg]]                                         | [[Franky 🤖 แฟรงกี้]]                                   |
 | ![[smoker-manga.jpg\|smoker-manga.jpg]]                                                                                           | [[Smoker 🚬 ผู้พัน]]                                     |
-| \-                                                                                                                                                                                                                                      | [[Straw Hat Crew Characters]]                   |
 <!-- SerializedQuery END -->
 
 
