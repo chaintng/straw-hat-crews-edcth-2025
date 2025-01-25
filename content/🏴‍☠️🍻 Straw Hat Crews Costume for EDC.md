@@ -5,7 +5,7 @@ tags:
   - pin-post
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:37:25+07:00
+modified: 2025-01-26T01:38:24+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -24,7 +24,9 @@ cssclasses:
   - dv-serializer
 ---
 
-
+# Overview
+A Light Wiki for [[One Piece — Straw Hat Pirates 🏴‍☠️|One Piece]] Cosplay
+ 
 > [!NOTE] Published Wiki by Quartz 
 > - **Quartz GitHub Repo**: https://github.com/chaintng/straw-hat-crews-edcth-2025
 > - **Quartz Wiki**: https://straw-hat-crews-edcth-2025.pages.dev/
@@ -37,7 +39,6 @@ cssclasses:
 ![[IMG_8977.jpeg]]
 
 # Related Notes
-- Light Wiki  for [[One Piece — Straw Hat Pirates 🏴‍☠️|Straw Hat Crews]] **Cosplay**
 - 💡 Idea for [[2025 EDC TH Phuket]] 
 - [[Straw Hat Crew hitting up EDC Thailand]]
 - [Facebook Post](https://www.facebook.com/share/p/1Do8sNiNwg/?)
