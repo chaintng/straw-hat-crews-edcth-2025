@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[Straw Hat Crew Characters]]"
-modified: 2025-01-26T01:33:51+07:00
+modified: 2025-01-26T01:45:47+07:00
 created: 2025-01-04T22:56:51+07:00
 order: 21
 cover: "![[Pasted image 20250104230632.png]]"

@@ -5,7 +5,7 @@ tags:
   - pin-post
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:38:24+07:00
+modified: 2025-01-26T01:45:47+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -36,6 +36,7 @@ A Light Wiki for [[One Piece — Straw Hat Pirates 🏴‍☠️|One Piece]] Cos
 
 ![[A3E90C78-8CCB-4C6B-A44B-BE67FBB29E74_1_102_a.jpeg]]
 ![[6D2B242A-162C-4817-8D3C-E5E26E9A35A8_1_102_a.jpeg]]
+![[IMG_8782.jpeg]]
 ![[IMG_8977.jpeg]]
 
 # Related Notes
