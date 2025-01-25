@@ -3,14 +3,9 @@ references:
 tags:
   - folder-note
   - pin-post
-  - cards
-  - cards-cols-3
-  - cards-cover
-  - cards-1-1
-  - dv-serializer
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:22:25+07:00
+modified: 2025-01-26T01:31:15+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -21,6 +16,12 @@ aliases:
   - index
 quartz-docs-url: https://straw-hat-crews-edcth-2025.pages.dev/
 published-url: https://straw-hat-crews-edcth-25.vercel.app
+cssclasses:
+  - cards
+  - cards-cols-3
+  - cards-cover
+  - cards-1-1
+  - dv-serializer
 ---
 
 
