@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
-modified: 2024-12-21T01:07:43+07:00
+modified: 2025-01-22T20:52:27+07:00
 created: 2024-12-20T10:21:52+07:00
 dg-publish: true
 ---
@@ -10,6 +10,7 @@ dg-publish: true
 ![[Pasted image 20241219225134.png]]
 ![[onepiece-team.jpg]]
 
+![[onepiece-team.jpg]]
 ![[Pasted image 20241219223747.png]]
 ![[one_piece_anime_matsuri_2017_group_cosplay_by_firecloak_db704m9-fullview.jpg]]
 ![[2A4ADC01-E641-4E27-810B-E549E4830E80.jpeg]]

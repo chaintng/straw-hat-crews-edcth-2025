@@ -1,8 +1,8 @@
 ---
-auto-backlink: "[[crew-characters]]"
+auto-backlink: "[[Straw Hat Crew Characters]]"
 modified: 2024-12-22T00:05:36+07:00
 created: 2024-12-20T09:55:06+07:00
-order: "999"
+order: 999
 dg-publish: true
 cover: "![[smoker-manga.jpg]]"
 ---

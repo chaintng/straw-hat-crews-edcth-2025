@@ -1,6 +1,6 @@
 ---
 auto-backlink: "[[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]"
-modified: 2024-12-21T22:58:16+07:00
+modified: 2024-12-25T11:24:37+07:00
 created: 2024-12-21T22:05:41+07:00
 ---
 
@@ -11,10 +11,11 @@ For [[🏴‍☠️🍻 Straw Hat Crews Costume for EDC]]
 > > [!todo|noicon] ![[LuffyCosplayCostume.jpg|Dress Like Luffy from One Piece Costume | Halloween and Cosplay Guides]]
 > 
 > > [!todo] Action Items
-> > - [ ] [[#Straw Hat]]
+> > - [x] [[#Straw Hat]]
 > > - [x] [[#Red Jacket]]
 > > - [ ] [[#Short Blue Jeans]]
 > > - [ ] [[#Yellow Belt]]
+> > - [ ] Eye Liner for Face Scar
 > > - [ ] Cosplay Wig?
 
 

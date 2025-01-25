@@ -1,8 +1,8 @@
 ---
-auto-backlink: "[[crew-characters]]"
+auto-backlink: "[[Straw Hat Crew Characters]]"
 modified: 2024-12-22T00:04:56+07:00
 created: 2024-12-20T19:24:34+07:00
-order: "7"
+order: 999
 dg-publish: true
 cover: "![[0BCA8C82-94BA-43C8-9397-E36136A2CA52.jpeg]]"
 ---

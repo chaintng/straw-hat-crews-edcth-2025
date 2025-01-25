@@ -1,8 +1,8 @@
 ---
-auto-backlink: "[[crew-characters]]"
-modified: 2024-12-22T00:03:32+07:00
+auto-backlink: "[[Straw Hat Crew Characters]]"
+modified: 2025-01-13T01:26:31+07:00
 created: 2024-12-20T00:32:58+07:00
-order: "2"
+order: 2
 dg-publish: true
 cover: "![[7372AA4B-40E5-4613-BE8D-5A0B32F2AD50.jpeg]]"
 ---
@@ -27,6 +27,12 @@ TODO เดี๋ยวมาเขียนเพิ่ม
 ![[Pasted image 20241219224742.png]]
 ![[Pasted image 20241219224513.png]]
 ![[Pasted image 20241219224844.png]]
+
+
+# Three Thousand Worlds Sword
+![[b3f9661f5a8e47e59d7dc1f48347caac.jpg]]
+![[tumblr_3a6a1b2c2d3a64e3db3a8ba691e15818_2304c8b8_1280.jpg]]
+![[tumblr_8359a130c2d878c3ce209522080e1875_6e51bd79_540.jpg]]
 
 # References
 - https://www.instagram.com/p/C7kmrSxvX-K/

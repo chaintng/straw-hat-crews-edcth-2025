@@ -1,8 +1,8 @@
 ---
-auto-backlink: "[[crew-characters]]"
-modified: 2024-12-22T00:03:15+07:00
+auto-backlink: "[[Straw Hat Crew Characters]]"
+modified: 2024-12-25T10:34:34+07:00
 created: 2024-12-20T00:32:34+07:00
-order: "1"
+order: 1
 dg-publish: true
 alias: Luffy
 cover: "![[Pasted image 20241219223935.png]]"
@@ -18,7 +18,7 @@ TODO เขียนสั้นๆ ตัวนี้ แต่งเองไ�
 
 
 # Ideas
-![[Pasted image 20241219223935.png]]
+![[Pasted image 20241219223935.png]]![[kt74589a7g111.jpg]]
 ![[Pasted image 20241221210256.png]]
 
 ![[Pasted image 20241219224329.png]]
