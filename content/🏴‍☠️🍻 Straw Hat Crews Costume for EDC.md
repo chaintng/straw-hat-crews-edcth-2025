@@ -5,7 +5,7 @@ tags:
   - pin-post
 favourite: false
 created: 2024-12-19T22:36:09+07:00
-modified: 2025-01-26T01:31:15+07:00
+modified: 2025-01-26T01:32:36+07:00
 template: General
 auto-backlink: "[[1. Projects]]"
 dg-home: true
@@ -28,6 +28,7 @@ cssclasses:
 > [!NOTE] Published Wiki by Quartz 
 > - **Quartz GitHub Repo**: https://github.com/chaintng/straw-hat-crews-edcth-2025
 > - **Quartz Wiki**: https://straw-hat-crews-edcth-2025.pages.dev/
+> - **Quartz Opensource Project**: https://quartz.jzhao.xyz
 
 ![[B3B2C5CF-667A-4A94-BE51-AFD60C1CD186_1_102_a.jpeg]]
 
